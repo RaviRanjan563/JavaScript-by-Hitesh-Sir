@@ -25,4 +25,7 @@
 
  console.log(typeof null);              // output = OBJECT
   
+
  console.log(typeof undefined);          // output = UNDEFINED
+
+ console.log(typeof name);
